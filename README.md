@@ -10,4 +10,4 @@ Before
 
 After
 
-![image](https://github.com/acro5piano/freee-better-notification/blob/master/screenshots/before.png)
+![image](https://github.com/acro5piano/freee-better-notification/blob/master/screenshots/after.png)
