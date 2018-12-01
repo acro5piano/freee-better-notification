@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "author": "kazuya gosho",
+  "name": "freee-better-notification",
+  "description": "freee-better-notification",
+  "version": "0.0.1",
+  "homepage_url": "https://github.com/acro5piano/freee-better-notification",
+  "content_scripts": [
+    {
+      "matches": ["https://secure.freee.co.jp/*"],
+      "js": ["main.js"]
+    }
+  ],
+  "permissions": ["tabs", "https://secure.freee.co.jp/*"]
+}
