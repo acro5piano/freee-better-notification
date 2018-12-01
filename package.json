@@ -5,6 +5,10 @@
   "repository": "git@github.com:acro5piano/freee-better-notification",
   "author": "gosho-kazuya <ketsume0211@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "zip freee-better-notification.zip manifest.json main.js",
+    "store:screenshot": "convert -resize 1280x800! screenshots/after.png screenshots/after.jpeg"
+  },
   "devDependencies": {
     "prettier": "^1.15.3"
   }

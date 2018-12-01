@@ -2,6 +2,8 @@
 
 A chrome plugin that makes freee notification better.
 
+To install open Chrome webstore: https://chrome.google.com/webstore/detail/freee-better-notification/niaodjeflkadocfjcdkfldgbinlhjhlk
+
 # Screenshot
 
 Before
